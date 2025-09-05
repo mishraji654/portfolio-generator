@@ -15,6 +15,22 @@
         "phone": "qwdq",
         "location": "qwdqw"
       }
+    },
+    {
+      "id": "78ac",
+      "template": 2,
+      "hero": {
+        "name": "Rimjhim",
+        "title": "klancak",
+        "tagline": "ascc",
+        "image": "https://media1.thrillophilia.com/filestore/v7h4ylcvnjh7dkpxg85jgw5gfqx4_IMG%20World%20Dubai%20Fun%20(1).jpg"
+      },
+      "about": {
+        "bio": "qwdqwdqwdqwd",
+        "email": "test@gmail.com",
+        "phone": "07905502290",
+        "location": "aqdqwdqdw"
+      }
     }
   ]
 }
